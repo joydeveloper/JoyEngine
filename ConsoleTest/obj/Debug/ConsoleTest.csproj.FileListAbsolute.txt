@@ -1,0 +1,8 @@
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\ConsoleTest\bin\Debug\JoyEngine.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\ConsoleTest\bin\Debug\JoyEngine.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\ConsoleTest\obj\Debug\ConsoleTest.pdb

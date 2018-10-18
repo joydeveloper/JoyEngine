@@ -1,0 +1,8 @@
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\ConsoleTest\bin\Release\ConsoleTest.exe.config
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\ConsoleTest\bin\Release\ConsoleTest.exe
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\ConsoleTest\bin\Release\ConsoleTest.pdb
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\ConsoleTest\bin\Release\JoyEngine.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\ConsoleTest\bin\Release\JoyEngine.pdb
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\ConsoleTest\obj\Release\ConsoleTest.csprojResolveAssemblyReference.cache
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\ConsoleTest\obj\Release\ConsoleTest.exe
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\ConsoleTest\obj\Release\ConsoleTest.pdb

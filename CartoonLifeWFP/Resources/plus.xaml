@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<DrawingBrush x:Key="Layer_1" Stretch="Uniform">
+		<DrawingBrush.Drawing>
+			<DrawingGroup>
+				<DrawingGroup.Children>
+					<GeometryDrawing Brush="#88FF0000" Geometry="F1 M 31.0917,15.9822C 31.0917,24.3209 24.3209,31.0917 16.0178,31.0917C 7.67909,31.0917 0.908337,24.3209 0.908337,15.9822C 0.908337,7.67909 7.67909,0.908339 16.0178,0.908339C 24.3209,0.908339 31.0917,7.67909 31.0917,15.9822 Z ">
+						<GeometryDrawing.Pen>
+							<Pen Thickness="1.99556" LineJoin="Round" Brush="#FF000000"/>
+						</GeometryDrawing.Pen>
+					</GeometryDrawing>
+					<GeometryDrawing Brush="#880000FF" Geometry="F1 M 16.0178,7.96418L 16.0178,24.0358L 16.0178,7.96418 Z ">
+						<GeometryDrawing.Pen>
+							<Pen Thickness="1.99556" LineJoin="Round" Brush="#FF000000"/>
+						</GeometryDrawing.Pen>
+					</GeometryDrawing>
+					<GeometryDrawing Brush="#880000FF" Geometry="F1 M 24.0358,15.9822L 7.96418,15.9822L 24.0358,15.9822 Z ">
+						<GeometryDrawing.Pen>
+							<Pen Thickness="1.99556" LineJoin="Round" Brush="#FF000000"/>
+						</GeometryDrawing.Pen>
+					</GeometryDrawing>
+				</DrawingGroup.Children>
+			</DrawingGroup>
+		</DrawingBrush.Drawing>
+	</DrawingBrush>
+</ResourceDictionary>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="200" height="220" viewBox="0 0 200.00 220.00" enable-background="new 0 0 200.00 220.00" xml:space="preserve">
+	<image x="0" y="0" width="1024" height="683" transform="matrix(1.00,0.00,0.00,1.00,-371.81,-267.84)" xlink:href="MainMenuSubW_files/image0.png"/>
+	<g>
+		<path fill="none" fill-rule="evenodd" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 45.0928,24.6666C 45.0928,13.6224 36.1391,4.66664 25.0928,4.66664C 14.0485,4.66664 5.09278,13.6224 5.09278,24.6666C 5.09278,35.713 14.0485,44.6666 25.0928,44.6666C 36.1391,44.6666 45.0928,35.713 45.0928,24.6666 Z "/>
+		<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="25.0928" y1="14.0003" x2="25.0928" y2="35.3331"/>
+		<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="35.7592" y1="24.6666" x2="14.4264" y2="24.6666"/>
+	</g>
+	<path fill="none" fill-rule="evenodd" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 62.0199,9.49001L 184.02,9.49001C 186.781,9.49001 189.02,11.7286 189.02,14.49L 189.02,27.8233C 189.02,30.5848 186.781,32.8233 184.02,32.8233L 62.0199,32.8233C 59.2584,32.8233 57.0199,30.5848 57.0199,27.8233L 57.0199,14.49C 57.0199,11.7286 59.2584,9.49001 62.0199,9.49001 Z "/>
+</svg>

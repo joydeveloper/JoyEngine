@@ -1,0 +1,99 @@
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\CartoonLifeWFP.exe.config
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\CartoonLifeWFP.exe
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\CartoonLifeWFP.pdb
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\JoyEngine.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\JoyEngine.pdb
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP.csprojResolveAssemblyReference.cache
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\MainWindow.g.cs
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\App.g.cs
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP_MarkupCompile.cache
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP_MarkupCompile.lref
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\MainWindow.baml
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP.g.resources
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP.Properties.Resources.resources
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP.csproj.GenerateResource.Cache
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP.exe
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP.pdb
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\LoadingIndicators.WPF.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.IconPacks.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.SimpleChildWindow.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\Microsoft.Expression.Drawing.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\System.Windows.Interactivity.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\LoadingIndicators.WPF.pdb
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.pdb
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.xml
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.IconPacks.pdb
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.IconPacks.xml
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.SimpleChildWindow.pdb
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.SimpleChildWindow.xml
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\de\Microsoft.Expression.Drawing.resources.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\es\Microsoft.Expression.Drawing.resources.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\it\Microsoft.Expression.Drawing.resources.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\Experimental.g.cs
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\GameWindow.g.cs
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\NewGameMenu.g.cs
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\TestPage.g.cs
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP_Content.g.cs
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\App.baml
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\Experimental.baml
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\GameWindow.baml
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\MainMenuDict.baml
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\NewGameMenu.baml
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\TestPage.baml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\CartoonLifeWFP.exe.config
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\CartoonLifeWFP.exe
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\CartoonLifeWFP.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\JoyEngine.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\LoadingIndicators.WPF.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.IconPacks.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.SimpleChildWindow.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\System.Windows.Interactivity.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\JoyEngine.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\LoadingIndicators.WPF.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.xml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.IconPacks.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.IconPacks.xml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.SimpleChildWindow.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\MahApps.Metro.SimpleChildWindow.xml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\de\Microsoft.Expression.Drawing.resources.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\es\Microsoft.Expression.Drawing.resources.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\it\Microsoft.Expression.Drawing.resources.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP.csprojResolveAssemblyReference.cache
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\Experimental.g.cs
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\GameWindow.g.cs
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\MainWindow.g.cs
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\NewGameMenu.g.cs
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\TestPage.g.cs
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\App.g.cs
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP_Content.g.cs
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP_MarkupCompile.cache
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP_MarkupCompile.lref
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\App.baml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\Experimental.baml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\GameWindow.baml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\MainMenuDict.baml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\MainWindow.baml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\NewGameMenu.baml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\TestPage.baml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP.g.resources
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP.Properties.Resources.resources
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP.csproj.GenerateResource.Cache
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP.exe
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\obj\Release\CartoonLifeWFP.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\CartoonLifeWFP\bin\Release\DevComponents.WpfEditors.dll

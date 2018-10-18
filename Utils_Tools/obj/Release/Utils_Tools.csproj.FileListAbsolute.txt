@@ -1,0 +1,5 @@
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\Utils_Tools\bin\Release\Utils_Tools.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\Utils_Tools\bin\Release\Utils_Tools.pdb
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\Utils_Tools\obj\Release\Utils_Tools.csprojResolveAssemblyReference.cache
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\Utils_Tools\obj\Release\Utils_Tools.dll
+D:\Мои документы\Портфолио\Приложения\Online cartoon\Docs\CartoonEngine\CartoonEngine\Utils_Tools\obj\Release\Utils_Tools.pdb

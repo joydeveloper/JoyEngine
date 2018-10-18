@@ -1,0 +1,222 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:CartoonLifeWFP" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d">
+    <Style x:Key="positive_plus_but" TargetType="{x:Type Button}">
+        <Setter Property="Width" Value="45"/>
+        <Setter Property="Height" Value="45"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Canvas>
+                        <Path Width="45" Height="45" Canvas.Left="-2.38419e-007" Canvas.Top="0" Stretch="Fill" StrokeThickness="5" StrokeLineJoin="Round" Stroke="#FF000000" Data="M 42.5,22.5C 42.5,11.4557 33.5463,2.5 22.5,2.5C 11.4557,2.5 2.5,11.4557 2.5,22.5C 2.5,33.5463 11.4557,42.5 22.5,42.5C 33.5463,42.5 42.5,33.5463 42.5,22.5 Z " Fill="#FF5DFF00"/>
+                        <Path Width="5" Height="26.3328" Canvas.Left="20" Canvas.Top="9.33362" Stretch="Fill" StrokeThickness="5" StrokeLineJoin="Round" Stroke="#FF000000" Data="M 22.5,11.8336L 22.5,33.1664"/>
+                        <Path Width="26.3328" Height="5" Canvas.Left="9.3336" Canvas.Top="20" Stretch="Fill" StrokeThickness="5" StrokeLineJoin="Round" Stroke="#FF000000" Data="M 33.1664,22.5L 11.8336,22.5"/>
+                        <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                    </Canvas>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsFocused" Value="True"/>
+                        <Trigger Property="IsDefaulted" Value="True"/>
+                        <Trigger Property="IsMouseOver" Value="True"/>
+                        <Trigger Property="IsPressed" Value="True"/>
+                        <Trigger Property="IsEnabled" Value="False"/>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <Style x:Key="wait_minus_but" TargetType="{x:Type Button}">
+        <Setter Property="Width" Value="45"/>
+        <Setter Property="Height" Value="45"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Canvas>
+                        <Path Width="45" Height="45" Canvas.Top="0" Stretch="Fill" StrokeThickness="5" StrokeLineJoin="Round" Stroke="#FF000000" Data="M 42.5,22.5C 42.5,11.4557 33.5463,2.5 22.5,2.5C 11.4557,2.5 2.5,11.4557 2.5,22.5C 2.5,33.5463 11.4557,42.5 22.5,42.5C 33.5463,42.5 42.5,33.5463 42.5,22.5 Z " Fill="#FFFFFF0B"/>
+                        <Path Width="26.332" Height="5" Canvas.Left="9.334" Canvas.Top="20" Stretch="Fill" StrokeThickness="5" StrokeLineJoin="Round" Stroke="#FF000000" Data="M 33.1664,22.5L 11.8336,22.5"/>
+                        <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                    </Canvas>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsFocused" Value="True"/>
+                        <Trigger Property="IsDefaulted" Value="True"/>
+                        <Trigger Property="IsMouseOver" Value="True"/>
+                        <Trigger Property="IsPressed" Value="True"/>
+                        <Trigger Property="IsEnabled" Value="False"/>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <Style x:Key="close_but" TargetType="{x:Type Button}">
+        <Setter Property="Width" Value="45"/>
+        <Setter Property="Height" Value="45"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Canvas>
+                        <Path Width="45" Height="45" Canvas.Top="0" Stretch="Fill" StrokeThickness="5" StrokeLineJoin="Round" Stroke="#FF000000" Data="M 42.5,22.5C 42.5,11.4557 33.5463,2.5 22.5,2.5C 11.4557,2.5 2.5,11.4557 2.5,22.5C 2.5,33.5463 11.4557,42.5 22.5,42.5C 33.5463,42.5 42.5,33.5463 42.5,22.5 Z " Fill="#FFFFFF0B"/>
+                        <Path Width="45" Height="5" Canvas.Top="20" Stretch="Fill" StrokeThickness="5" StrokeLineJoin="Round" Stroke="#FF000000" Data="M -10,10 L 10,15" RenderTransformOrigin="0.5,0.5">
+                            <Path.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="-39.9"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Path.RenderTransform>
+                        </Path>
+                        <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        <Path Width="45" Height="5" Canvas.Top="20" Stretch="Fill" StrokeThickness="5" StrokeLineJoin="Round" Stroke="#FF000000" Data="M 33.1664,22.5L 11.8336,22.5" RenderTransformOrigin="0.5,0.5">
+                            <Path.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="-142.826"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Path.RenderTransform>
+                        </Path>
+                    </Canvas>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsFocused" Value="True"/>
+                        <Trigger Property="IsDefaulted" Value="True"/>
+                        <Trigger Property="IsMouseOver" Value="True"/>
+                        <Trigger Property="IsPressed" Value="True"/>
+                        <Trigger Property="IsEnabled" Value="False"/>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <Style x:Key="left_but" TargetType="{x:Type Button}">
+        <Setter Property="Width" Value="45"/>
+        <Setter Property="Height" Value="45"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Canvas>
+                        <Path Width="45" Height="45" Canvas.Left="-1.1271e-006" Canvas.Top="0" Stretch="Fill" Fill="#F191DC5A" Data="M 41.9838,11.2043C 39.9708,7.75965 37.2403,5.02916 33.7957,3.01949C 30.3477,1.0065 26.5841,0 22.5017,0C 18.4192,0 14.6523,1.0065 11.2076,3.01949C 7.75965,5.02916 5.02916,7.75965 3.01949,11.2043C 1.00649,14.6523 -1.1271e-006,18.4192 -1.1271e-006,22.4983C -1.1271e-006,26.5808 1.00649,30.3444 3.01949,33.7924C 5.02916,37.2403 7.75965,39.9708 11.2076,41.9805C 14.6523,43.9935 18.4192,45 22.5017,45C 26.5808,45 30.3477,43.9935 33.7957,41.9805C 37.2403,39.9708 39.9708,37.2403 41.9805,33.7924C 43.9935,30.3477 45,26.5808 45,22.4983C 45,18.4192 43.9935,14.6523 41.9838,11.2043 Z M 34.3072,23.8171L 21.0069,37.1174C 20.6348,37.4895 20.1964,37.6755 19.6881,37.6755C 19.1799,37.6755 18.7414,37.4895 18.3694,37.1174L 15.3798,34.1312C 15.0111,33.7591 14.8251,33.3207 14.8251,32.8124C 14.8251,32.3042 15.0111,31.8657 15.3798,31.4937L 24.3751,22.4983L 15.3798,13.5063C 15.0111,13.1343 14.8251,12.6958 14.8251,12.1876C 14.8251,11.6793 15.0111,11.2409 15.3798,10.8688L 18.3694,7.87924C 18.7414,7.51052 19.1799,7.3245 19.6881,7.3245C 20.1964,7.3245 20.6348,7.51052 21.0069,7.87924L 34.3072,21.1796C 34.6759,21.5516 34.862,21.9901 34.862,22.4983C 34.862,23.0066 34.6793,23.4484 34.3072,23.8171 Z "/>
+                    </Canvas>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsFocused" Value="True"/>
+                        <Trigger Property="IsDefaulted" Value="True"/>
+                        <Trigger Property="IsMouseOver" Value="True"/>
+                        <Trigger Property="IsPressed" Value="True"/>
+                        <Trigger Property="IsEnabled" Value="False"/>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Background">
+            <Setter.Value>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Foreground" Value="#FFBF6868"/>
+    </Style>
+    <Style x:Key="MainSubWindow_Rect" TargetType="{x:Type Rectangle}">
+        <Setter Property="Stroke" Value="#FFFF9F15"/>
+        <Setter Property="StrokeThickness" Value="5"/>
+        <Setter Property="StrokeLineJoin" Value="Round"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+        <Setter Property="Width" Value="600"/>
+        <Setter Property="Height" Value="50"/>
+        <Setter Property="VerticalAlignment" Value="Top"/>
+        <Setter Property="Fill">
+            <Setter.Value>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#99FFF406" Offset="1"/>
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <Style x:Key="MainSubWindow_Dock" TargetType="{x:Type DockPanel}">
+        <Setter Property="LastChildFill" Value="False"/>
+        <Setter Property="Width" Value="610"/>
+        <Setter Property="Height" Value="320"/>
+        <Setter Property="LastChildFill" Value="False"/>
+        <Setter Property="Background">
+            <Setter.Value>
+                <ImageBrush ImageSource="Resources/cart_fill_1.jpg"/>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Effect">
+            <Setter.Value>
+                <DropShadowEffect BlurRadius="56"
+                              Direction="392"
+                              Color="#FF872E2E"
+                              RenderingBias="Quality"/>
+            </Setter.Value>
+        </Setter>
+    </Style>
+     <Style x:Key="MainSubWindow_Grid" TargetType="{x:Type Grid}">
+        <Setter Property="Width" Value="800"/>
+        <Setter Property="Height" Value="100"/>
+        <Setter Property="VerticalAlignment" Value="Top"/>
+        <Setter Property="DockPanel.Dock" Value="Top"/> 
+    </Style>
+    <Style x:Key="MainSubWindow_Label" TargetType="{x:Type Label}">
+        <Setter Property="Width" Value="800"/>
+        <Setter Property="Height" Value="70"/>
+        <Setter Property="FontSize" Value="40"/>
+        <Setter Property="FontFamily" Value="Segoe Print"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+    </Style>
+    <Style x:Key="H1_Label" TargetType="{x:Type Label}">
+        <Setter Property="Width" Value="Auto"/>
+        <Setter Property="Height" Value="70"/>
+        <Setter Property="FontSize" Value="22"/>
+        <Setter Property="FontFamily" Value="Segoe Print"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+    </Style>
+    <Style x:Key="H2_Label" TargetType="{x:Type Label}">
+        <Setter Property="Width" Value="Auto"/>
+        <Setter Property="Height" Value="65"/>
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="FontFamily" Value="Segoe Print"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+    </Style>
+    <Style x:Key="H2_Col_Label_1" BasedOn="{StaticResource H2_Label}" TargetType="{x:Type Label}">
+        <Setter Property="Margin" Value="50,0,0,0"/>
+        <Setter Property="Height" Value="40.75"/>
+        <Setter Property="VerticalAlignment" Value="Top"/>
+        <Setter Property="Background">
+            <Setter.Value>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="#FFFFF300" Offset="1"/>
+                <GradientStop Color="#FF9F9800" Offset="0.199"/>
+            </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <Style x:Key="H3_Label" TargetType="{x:Type Label}">
+        <Setter Property="Width" Value="Auto"/>
+        <Setter Property="Height" Value="60"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="FontFamily" Value="Segoe Print"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+    </Style>
+    <Style x:Key="textBoxControl_1" TargetType="{x:Type TextBox}">
+        <Setter Property="Width" Value="180"/>
+        <Setter Property="Height" Value="40"/>
+        <Setter Property="VerticalAlignment" Value="Bottom"/>
+        <Setter Property="HorizontalAlignment" Value="Right"/>
+        <Setter Property="TextWrapping" Value="Wrap"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="Background">
+            <Setter.Value>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FFFFC2EE"/>
+                <GradientStop Color="#FF98AA28" Offset="0.908"/>
+            </LinearGradientBrush>
+                </Setter.Value>
+        </Setter>
+    </Style>
+   </ResourceDictionary>

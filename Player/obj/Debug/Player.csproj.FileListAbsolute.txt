@@ -1,0 +1,7 @@
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Player\bin\Debug\Player.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Player\bin\Debug\Player.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Player\obj\Debug\Player.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Player\obj\Debug\Player.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Player\bin\Debug\Player.dll.CodeAnalysisLog.xml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Player\bin\Debug\Player.dll.lastcodeanalysissucceeded

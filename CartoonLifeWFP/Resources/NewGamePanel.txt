@@ -1,0 +1,68 @@
+ // main_menu_dock.Style = (Style)Application.Current.FindResource("MainSubWindow_Dock");
+           // main_menu_dock.HorizontalAlignment = HorizontalAlignment.Left;
+           // Grid headergrid = new Grid();
+           // headergrid.Style = (Style)Application.Current.FindResource("MainSubWindow_Grid");
+           // Rectangle rect = new Rectangle();
+           // rect.Style = (Style)Application.Current.FindResource("MainSubWindow_Rect");
+           // headergrid.Children.Add(rect);
+           // Label main_dockLabel = new Label();
+           // main_dockLabel.Style = (Style)Application.Current.FindResource("MainSubWindow_Label");
+           // main_dockLabel.Content = elementscaption[0];
+           // headergrid.Children.Add(main_dockLabel);
+           // Button close_but = new Button();
+           // close_but.Style = (Style)Application.Current.FindResource("close_but");
+           // close_but.HorizontalAlignment = HorizontalAlignment.Right;
+           // close_but.Click += new RoutedEventHandler(CloseNewGamePanel);
+           // close_but.Margin = new Thickness(0, 15, 227.5, 40);
+           // headergrid.Children.Add(close_but);
+           // main_menu_dock.Children.Add(headergrid);
+           // Grid player_setup_grid = new Grid();
+           // DockPanel.SetDock(player_setup_grid, Dock.Top);
+           // Button add_player_but = new Button();
+           // add_player_but.Style = (Style)Application.Current.FindResource("positive_plus_but");
+           // add_player_but.HorizontalAlignment = HorizontalAlignment.Left;
+           // add_player_but.VerticalAlignment = VerticalAlignment.Top;
+           // DockPanel.SetDock(add_player_but, Dock.Top);
+           // // TextBox input_player_name_tBox = new TextBox();
+           // player_setup_grid.Children.Add(add_player_but);
+           // // player_setup_grid.Children.Add(input_player_name_tBox);
+           // main_menu_dock.Children.Add(player_setup_grid);
+           // win.GameSetupPanel.Children.Add(main_menu_dock);
+           //// win.MainGrid.Children.Add(main_menu_dock);
+           // win.MainGrid.IsEnabled = false;
+           // isCreated = true;
+
+
+
+            //
+
+            //
+
+
+
+
+
+            //DockPanel.SetDock(rect, Dock.Top);
+            //DockPanel.SetDock(add_player_but, Dock.Top);
+            //DockPanel.SetDock(player_setup_grid, Dock.Top);
+            //headergrid.Children.Add(rect);
+            //headergrid.Children.Add(main_dockLabel);
+            //close_but.HorizontalAlignment = HorizontalAlignment.Right;         
+            //close_but.Click += new RoutedEventHandler(CloseNewGamePanel);
+            //close_but.Margin = new Thickness(0, 15,35, 40);
+            //headergrid.Children.Add(close_but);
+            //main_dockLabel.Content = "New Game";
+            //main_menu_dock.Children.Add(headergrid);
+            //add_player_but.HorizontalAlignment = HorizontalAlignment.Left;                 
+            //input_player_name_tBox.BorderThickness = new Thickness(3);
+            //input_player_name_tBox.Height = 45;
+            //input_player_name_tBox.VerticalAlignment = VerticalAlignment.Top;
+            //input_player_name_tBox.Margin = new Thickness(50, 0, 0, 0);
+            //input_player_name_tBox.TextAlignment = TextAlignment.Center;
+            //input_player_name_tBox.FontSize = 24;
+            //input_player_name_tBox.HorizontalAlignment = HorizontalAlignment.Left;
+            //input_player_name_tBox.BorderBrush = (SolidColorBrush)(new BrushConverter().ConvertFrom("#FF92E473"));
+            //input_player_name_tBox.Text = "Enter player name";
+            //player_setup_grid.Children.Add(add_player_but);
+            //player_setup_grid.Children.Add(input_player_name_tBox);           
+            //main_menu_dock.Children.Add(player_setup_grid);      

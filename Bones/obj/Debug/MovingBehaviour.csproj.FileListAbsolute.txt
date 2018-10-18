@@ -1,0 +1,6 @@
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Bones\bin\Debug\Bones.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Bones\bin\Debug\Bones.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Bones\obj\Debug\Bones.dll
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Bones\obj\Debug\Bones.pdb
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Bones\bin\Debug\Bones.dll.CodeAnalysisLog.xml
+C:\Desktop\CartoonLife\CartoonEngine\CartoonEngine\Bones\bin\Debug\Bones.dll.lastcodeanalysissucceeded
